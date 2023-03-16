@@ -22,4 +22,4 @@ jobs:
         service-id: "https://api.render.com/deploy/srv-cg9dcvseooghng7li3i0?key=A2CNu81HeVI"
         retries: 20
         wait: 16000
-        sleep: 3000
+        sleep: 30000
